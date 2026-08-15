@@ -1,418 +1,236 @@
-<div align="center">
+# `AL!3N // v0x`
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=700&color=00FFAA&center=true&vCenter=true&width=700&lines=BUILDING+SYSTEMS+FROM+SCRATCH;AI+%2B+WEB+%2B+AUTOMATION;EXPERIMENT.+BUILD.+BREAK.+REBUILD.;WELCOME+TO+THE+AL13N+CORE." alt="Typing animation" />
+</p>
 
-<!-- ║                    AL13N / V0X                              ║ -->
+<p align="center">
+  <b>AL13N Industries</b> · Full-Stack Builder · AI Explorer · Systems Architect
+</p>
 
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-<a href="https://github.com/al13n-x-v0x">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=340&section=header&text=AL13N&fontSize=105&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=V0X%20%E2%80%94%20ENGINEERING%20BEYOND%20THE%20EXPECTED&descSize=18&descAlignY=59&color=0:020617,30:0f172a,60:312e81,82:7c3aed,100:06b6d4" width="100%"/>
-
-</a>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=26&duration=1100&pause=350&color=7AA2F7&center=true&vCenter=true&width=1000&height=60&lines=%3E+INITIALIZING+AL13N...;%3E+SYSTEM+ONLINE+%E2%9C%93;%3E+FULL-STACK+ENGINEER;%3E+UI+%2B+SYSTEMS+%2B+AUTOMATION;%3E+BUILDING+THE+NEXT+THING...;%3E+ACCESS+GRANTED+%E2%96%88" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/●_ONLINE-050505?style=for-the-badge&color=22c55e"/>
-<img src="https://img.shields.io/badge/⚡_BUILD_MODE-050505?style=for-the-badge&color=7AA2F7"/>
-<img src="https://img.shields.io/badge/◈_V0X-050505?style=for-the-badge&color=BB9AF7"/>
-
-<br><br>
-
-<a href="#-about">
-<img src="https://img.shields.io/badge/ENTER-VOID-111827?style=for-the-badge&logoColor=ffffff&color=7AA2F7"/>
-</a>
-
-<a href="#-arsenal">
-<img src="https://img.shields.io/badge/VIEW-ARSENAL-111827?style=for-the-badge&color=BB9AF7"/>
-</a>
-
-<a href="#-stats">
-<img src="https://img.shields.io/badge/OPEN-CORE-111827?style=for-the-badge&color=06B6D4"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=al13n-x-v0x&label=◉%20VISITORS&color=7aa2f7&style=for-the-badge&labelColor=050505"/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/al13n-x-v0x">
+    <img src="https://img.shields.io/github/followers/al13n-x-v0x?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/al13n-x-v0x?tab=repositories">
+    <img src="https://img.shields.io/github/stars/al13n-x-v0x?affiliations=OWNER&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-<a name="-about"></a>
+## `01 // WHO AM I?`
 
-<div align="center">
+I'm **AL!3N — aka v0x**.
 
-# `01 // ABOUT`
+I build things because I want to know:
 
-<br>
+> **“What happens if I push this system further?”**
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=19&duration=1700&pause=450&color=BB9AF7&center=true&vCenter=true&width=900&height=45&lines=I+BUILD+SYSTEMS.;I+DESIGN+EXPERIENCES.;I+OPTIMIZE+THE+DETAILS.;I+TURN+IDEAS+INTO+REALITY." />
+I like turning ideas into actual working projects — from futuristic interfaces and AI systems to automation, web applications, developer tools, and experimental software.
 
-<br><br>
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🧠 THINK
-
-Architecture
-Logic
-Performance
-
-</td>
-
-<td width="33%" align="center">
-
-### ⚡ BUILD
-
-Interfaces
-Systems
-Automation
-
-</td>
-
-<td width="33%" align="center">
-
-### 🚀 SHIP
-
-Clean
-Fast
-Reliable
-
-</td>
-</tr>
-</table>
-
-<br>
-
-> **Scalable systems. Clean architecture. Insane attention to detail.**
-
-</div>
+```txt
+╭──────────────────────────────────────────────────────╮
+│ AL13N CORE                                           │
+├──────────────────────────────────────────────────────┤
+│ Alias       : v0x                                     │
+│ Mode        : BUILD                                   │
+│ Focus       : AI / Web / Systems / Automation        │
+│ Philosophy  : BUILD → BREAK → LEARN → REBUILD       │
+│ Status      : ONLINE                                  │
+╰──────────────────────────────────────────────────────╯
+```
 
 ---
 
-<div align="center">
-
-# `02 // IDENTITY`
+## `02 // WHAT I BUILD`
 
 ```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│   USER          al13n-x-v0x                                 │
-│   ALIAS         v0x                                         │
-│   CLASS         FULL-STACK ENGINEER                         │
-│   MODE          BUILDING                                    │
-│                                                              │
-│   MISSION       CREATE → OPTIMIZE → AUTOMATE → SHIP        │
-│                                                              │
-│   CURRENT       ████████████████████████████░░  94%         │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│  🤖 AI SYSTEMS        Intelligent software & experiments   │
+│  🖥️ FUTURISTIC UI     Interfaces that feel alive           │
+│  🌐 WEB APPS          Websites & full-stack experiences    │
+│  ⚙️ AUTOMATION        Tools that remove repetitive work    │
+│  🧪 EXPERIMENTS       Weird ideas turned into prototypes   │
+│  🧠 SYSTEMS           Architecture, logic & optimization   │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
 ```
 
-</div>
+---
+
+## `03 // CURRENT PROJECTS`
+
+### 🧠 A.3.T.H.E.R
+
+**Adaptive 3rd-generation Thinking Heuristic Engine for Response**
+
+An experimental AI system focused on creating a more intelligent, interactive developer-style AI experience.
+
+`AI` · `Python` · `JavaScript` · `Systems` · `Memory` · `Reasoning`
 
 ---
 
-<div align="center">
+### 🖥️ v0x-0s
 
-# `03 // ARSENAL`
+A futuristic developer-oriented operating environment concept.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=800&pause=250&color=7DCFFF&center=true&vCenter=true&width=650&height=35&lines=LOADING+TECHNOLOGY+STACK...;%5B████████████████████%5D+100%25;%3E+ARSENAL+READY." />
+Built around the idea of making software feel less like a collection of windows and more like a **real computing environment**.
 
-<br><br>
-
-### `LANGUAGES`
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,cs,html,css&theme=dark"/>
-
-<br><br>
-
-### `INTERFACE`
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs&theme=dark"/>
-
-<br><br>
-
-### `BACKEND`
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,supabase&theme=dark"/>
-
-<br><br>
-
-### `INFRASTRUCTURE`
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,vscode&theme=dark"/>
-
-</div>
+`TypeScript` · `UI` · `Systems` · `Developer Tools`
 
 ---
 
-<div align="center">
-
-# `04 // CURRENTLY BUILDING`
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=1200&pause=400&color=7AA2F7&center=true&vCenter=true&width=850&height=50&lines=NO+PROJECTS+YET.;THAT'S+THE+POINT.;THE+NEXT+ONE+IS+LOADING...;%3E%3E%3E+BUILD+IN+PROGRESS" />
-
-<br><br>
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### `01`
-
-🧪
-**EXPERIMENT**
-
-Testing ideas
-
-</td>
-
-<td align="center" width="25%">
-
-### `02`
-
-🧠
-**DESIGN**
-
-Planning systems
-
-</td>
-
-<td align="center" width="25%">
-
-### `03`
-
-⚙️
-**BUILD**
-
-Writing the core
-
-</td>
-
-<td align="center" width="25%">
-
-### `04`
-
-🚀
-**SHIP**
-
-Coming soon
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://img.shields.io/badge/NEXT_PROJECT-CLASSIFIED-050505?style=for-the-badge&logo=github&logoColor=7AA2F7&color=7AA2F7"/>
-
-<br><br>
-
-**No showcase projects yet. Just a blank canvas.**
-
-<br>
-
-*The first drop is going to be worth the wait.*
-
-</div>
-
----
-
-<div align="center">
-
-# `05 // SYSTEM MONITOR`
-
-<table>
-<tr>
-<td align="center">
-
-**LOGIC**
-
-<br>
-
-`████████████████████`
-
-</td>
-
-<td align="center">
-
-**UI**
-
-<br>
-
-`███████████████████░`
-
-</td>
-
-<td align="center">
-
-**OPTIMIZATION**
-
-<br>
-
-`████████████████████`
-
-</td>
-
-<td align="center">
-
-**IDEAS**
-
-<br>
-
-`████████████████████∞`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=850&pause=250&color=7DCFFF&center=true&vCenter=true&width=800&height=40&lines=CPU%3A+OPTIMIZING...;%7C+MEMORY%3A+ALLOCATED;%7C+NETWORK%3A+CONNECTED;%7C+CREATIVITY%3A+OVERFLOW;%7C+STATUS%3A+READY" />
-
-</div>
-
----
-
-<a name="-stats"></a>
-
-<div align="center">
-
-# `06 // GITHUB CORE`
-
-<br>
-
-<a href="https://github.com/al13n-x-v0x">
-
-<img src="https://github-readme-stats.vercel.app/api?username=al13n-x-v0x&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&bg_color=050505&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5"/>
-
-</a>
-
-<a href="https://github.com/al13n-x-v0x">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=al13n-x-v0x&layout=donut&langs_count=8&hide_border=true&theme=tokyonight&bg_color=050505&title_color=7AA2F7&text_color=C0CAF5"/>
-
-</a>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=al13n-x-v0x&theme=tokyonight&hide_border=true&background=050505&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7&sideLabels=C0CAF5&dates=565F89"/>
-
-</div>
-
----
-
-<div align="center">
-
-# `07 // ACTIVITY STREAM`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=al13n-x-v0x&bg_color=050505&color=7AA2F7&line=BB9AF7&point=FFFFFF&area=true&hide_border=true&custom_title=AL13N_X_V0X%20%E2%80%94%20ACTIVITY%20STREAM" width="98%"/>
-
-</div>
-
----
-
-<div align="center">
-
-# `08 // CONTRIBUTION VOID`
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="96%" alt="Contribution Snake"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=14&duration=900&pause=250&color=BB9AF7&center=true&vCenter=true&width=700&height=35&lines=CONTRIBUTIONS+DETECTED...;%3E+KEEP+BUILDING;%3E+KEEP+SHIPPING;%3E+KEEP+EVOLVING." />
-
-</div>
-
----
-
-<div align="center">
-
-# `09 // TROPHY ROOM`
-
-<img src="https://github-profile-trophy.vercel.app/?username=al13n-x-v0x&theme=tokyonight&no-frame=true&no-bg=true&margin-w=7&column=7" width="96%"/>
-
-</div>
-
----
-
-<div align="center">
-
-# `10 // TERMINAL`
-
-```console
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│  al13n@v0x:~$ ./launch                                     │
-│                                                            │
-│  [✓] Loading identity                                      │
-│  [✓] Loading architecture                                  │
-│  [✓] Loading creativity                                    │
-│  [✓] Loading caffeine                                      │
-│  [✓] Loading impossible ideas                              │
-│                                                            │
-│  ████████████████████████████████ 100%                    │
-│                                                            │
-│  SYSTEM: ONLINE                                             │
-│  MODE:   BUILD                                              │
-│  TARGET: THE FUTURE                                         │
-│                                                            │
-│  > Welcome to the void.                                    │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
+### 🌐 More experiments loading...
+
+Not everything starts as a massive project.
+
+Some things start as:
+
+```bash
+$ idea
+$ prototype
+$ break
+$ debug
+$ rebuild
+$ ship
 ```
 
-</div>
+---
+
+## `04 // THE STACK`
+
+### Languages
+
+```text
+JavaScript   ████████████████████
+TypeScript   ███████████████████░
+Python       ██████████████████░░
+HTML/CSS     ████████████████████
+```
+
+### Technologies
+
+```text
+Frontend     → Modern Web / UI / Interactive Systems
+Backend      → APIs / Python / Node.js
+AI           → AI APIs / Agents / Experimental Systems
+Tools        → Git / GitHub / Automation
+```
 
 ---
 
-<div align="center">
+## `05 // BUILD PHILOSOPHY`
 
-# `11 // CONNECT`
+I don't want to just make projects that **work**.
 
-<br>
+I want to make projects that feel:
 
-<a href="mailto:al13n@duck.com">
+* ⚡ Fast
+* 🧠 Intelligent
+* 🎨 Clean
+* 🛠️ Useful
+* 🚀 Experimental
+* 🔥 Memorable
 
-<img src="https://img.shields.io/badge/✉%20al13n%40duck.com-050505?style=for-the-badge&logo=gmail&logoColor=EA4335&color=7AA2F7"/>
+```text
+IDEA
+ ↓
+PROTOTYPE
+ ↓
+BUILD
+ ↓
+BREAK
+ ↓
+DEBUG
+ ↓
+OPTIMIZE
+ ↓
+SHIP
+ ↓
+REPEAT
+```
 
-</a>
+---
+
+## `06 // SYSTEM STATUS`
+
+```text
+╭──────────────────────────────────────────────╮
+│                                              │
+│  [ONLINE]  CORE SYSTEM                      │
+│  [ONLINE]  CREATIVITY                       │
+│  [ONLINE]  EXPERIMENTATION                  │
+│  [ONLINE]  BUILD MODE                       │
+│  [ONLINE]  IMPOSSIBLE IDEAS                 │
+│                                              │
+│  STATUS: BUILDING                           │
+│  TARGET: THE FUTURE                          │
+│                                              │
+╰──────────────────────────────────────────────╯
+```
+
+---
+
+## `07 // GITHUB ACTIVITY`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=al13n-x-v0x&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=al13n-x-v0x&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## `08 // CONTRIBUTION GRID`
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=al13n-x-v0x&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+## `09 // CONNECT`
+
+<p align="center">
 
 <a href="https://github.com/al13n-x-v0x">
-
-<img src="https://img.shields.io/badge/◉%20GITHUB%20%2F%20al13n--x--v0x-050505?style=for-the-badge&logo=github&logoColor=FFFFFF&color=BB9AF7"/>
-
+<img src="https://img.shields.io/badge/GitHub-AL13N-000000?style=for-the-badge&logo=github" />
 </a>
 
-<br><br>
-
-<a href="mailto:al13n@duck.com">
-
-<img src="https://img.shields.io/badge/LET'S%20BUILD%20SOMETHING-050505?style=for-the-badge&logo=rocket&logoColor=7DCFFF&color=7DCFFF"/>
-
-</a>
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+## `10 // TERMINAL`
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=950&pause=400&color=7AA2F7&center=true&vCenter=true&width=900&height=55&lines=THIS+IS+ONLY+THE+BEGINNING.;THE+CANVAS+IS+EMPTY.;THE+NEXT+BUILD+IS+LOADING.;AL13N_X_V0X_%E2%96%88" />
+```bash
+al13n@v0x:~$ ./launch
 
-<br><br>
+[✓] Loading identity
+[✓] Loading creativity
+[✓] Loading architecture
+[✓] Loading AI systems
+[✓] Loading impossible ideas
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&color=0:7aa2f7,25:bb9af7,55:06b6d4,80:111827,100:020617&animation=twinkling" width="100%"/>
+████████████████████████████████████████ 100%
 
-</div>
+SYSTEM : ONLINE
+MODE   : BUILD
+TARGET : THE FUTURE
+
+> Welcome to the void.
+```
+
+---
+
+<p align="center">
+
+### `BUILD SOMETHING WORTH REMEMBERING.`
+
+**AL!3N // v0x**
+
+</p>
